@@ -24,6 +24,8 @@ Maak `Cargo.toml`:
 cargo init
 ```
 
+Game starten:
+
 ```
 cargo run
 ```
