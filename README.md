@@ -1,6 +1,15 @@
-hallo ik ben Leon
-HET IS ME EINDELIJK GELUKT NA AL DIE JAREN
-LALALLALALLALLALALLALALLALA IK HOOR JE NIET LALLALLALALLALALLALLAL IK HOOR JE NIET
+# rust-game-chess
+
+```
+Een monster zit je achterna.
+Je komt bij een T splitsing.
+Het is erg spannend!
+Wat wil je doen?
+A) Links
+B) Rechts
+X
+Foute input! Hierdoor: GAME OVER :-)
+```
 
 
 ## git
