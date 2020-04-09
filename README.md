@@ -1,24 +1,3 @@
-# rust-game-chess
-
-Dit is het schaak game in Rust!
-of je doet dit
-
-wie dit leest is cool
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HALLO DIT BEN IK
+hallo ik ben Leon
+HET IS ME EINDELIJK GELUKT NA AL DIE JAREN
+LALALLALALLALLALALLALALLALA IK HOOR JE NIET LALLALLALALLALALLALLAL IK HOOR JE NIET
