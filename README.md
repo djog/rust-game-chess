@@ -1,2 +1,3 @@
 # rust-game-chess
-yo hoe is het
+
+Dit is het schaak game in Rust!
