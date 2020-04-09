@@ -2,5 +2,5 @@
 
 Dit is het schaak game in Rust!
 of je doet dit
-richel is de leraar
-richel is de leraar 2 
+Richel is de leraar
+Richel is de leraar 2 
