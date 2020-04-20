@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-wie dit lees weet wat er staat
-=======
 # rust-game-chess
 
 ```
@@ -44,5 +41,3 @@ cargo run
 
 Ook heeft hij `Cargo.lock` aan `.gitignore` toevoegd. `Cargo.lock`
 is een bestand waar we de versie niet van bij hoeven te houden.
-
->>>>>>> 27fe3110b3338c69f61bc53c980541ed1f98ed11
